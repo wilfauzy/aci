@@ -1,8 +1,8 @@
 baseURL = "https://axiom-example.netlify.app"
 
-title = "Axiom Example"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+title = "Kompor Gas"
+languageCode = "id-id"
+defaultContentLanguage = "id"
 
 theme = "axiom"
 
